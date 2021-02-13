@@ -23,7 +23,7 @@ Copyright © 2020-2021 酱茄 jiangqie.com
 
 ## 已实现功能
 
-<img src="https://github.com/viki0609/jiangqie-diy/blob/master/WechatIMG10030.png" width="200" height="auto" alt="酱茄微信小程序"/>
+<img src="https://github.com/viki0609/jiangqie-diy/blob/master/WechatIMG10030.png" width="800" height="auto" alt="酱茄微信小程序"/>
 
 - [x] 直播
 - [x] 网盘下载[支持流量主广告]
