@@ -1,4 +1,4 @@
-## jiangqie-diy
+
 
 本项目基于酱茄开源版进行二次开发，感谢酱茄提供开源框架。
 
@@ -26,13 +26,14 @@ Copyright © 2020-2021 酱茄 jiangqie.com
 <img src="https://github.com/viki0609/jiangqie-diy/blob/master/WechatIMG10030.png" width="800" height="auto" alt="酱茄微信小程序"/>
 
 - [x] 直播
-- [x] 网盘下载[支持流量主广告]
+- [x] 网盘下载/分享[支持流量主广告]
 - [x] 网盘链接复制[支持流量主广告]
 - [x] 多端接口[QQ、百度、头条]
 - [x] 友情链接[支持风格切换]
 - [x] 文档阅读[支持流量主广告]
 - [x] 跑马灯公告
 - [x] 红包封面领取
+- [x] 自定义Banner广告
 - [x] 开屏封面[支持流量主广告]
 
 ## 鸣谢
