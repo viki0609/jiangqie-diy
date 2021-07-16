@@ -29,7 +29,7 @@ Copyright © 2020-2021 酱茄 jiangqie.com
 
 <img src="https://github.com/viki0609/jiangqie-diy/blob/master/WechatIMG10030.png" width="800" height="auto" alt="酱茄微信小程序"/>
 
-- [x] 直播
+- [x] 小程序/视频号直播
 - [x] 网盘下载/分享[支持流量主广告]
 - [x] 网盘链接复制PC/小程序[支持流量主广告]
 - [x] 多端接口[QQ、百度、头条]
@@ -40,7 +40,7 @@ Copyright © 2020-2021 酱茄 jiangqie.com
 - [x] 更新日志
 - [x] 自定义Banner广告
 - [x] 开屏封面[支持流量主广告]
-- [x] 首页瀑布流
+- [x] 首页瀑布流[支持切换]
 - [x] 引入colorUI美化页面
 - [x] AR支持[需自制AR模型]
 - [x] DIY字段支持
