@@ -50,6 +50,9 @@ Copyright © 2020-2021 酱茄 jiangqie.com
 重要更新
 - [x] API缓存功能[Memcached]
 
+<img src="https://github.com/viki0609/jiangqie-diy/raw/master/1637028172815.jpg" width="800" height="auto" alt="酱茄微信小程序"/>
+<img src="https://github.com/viki0609/jiangqie-diy/raw/master/1637028172815.jpg" width="800" height="auto" alt="酱茄微信小程序"/>
+
 
 ## 鸣谢
 
