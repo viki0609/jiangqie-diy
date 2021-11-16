@@ -47,6 +47,10 @@ Copyright © 2020-2021 酱茄 jiangqie.com
 - [x] DIY字段支持
 - [ ] 更多功能开发中
 
+重要更新
+- [x] API缓存功能[Memcached]
+
+
 ## 鸣谢
 
 感谢以下项目及开发者：
