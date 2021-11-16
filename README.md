@@ -28,6 +28,8 @@ Copyright © 2020-2021 酱茄 jiangqie.com
 ## 已实现功能
 
 <img src="https://github.com/viki0609/jiangqie-diy/blob/master/WechatIMG10030.png" width="800" height="auto" alt="酱茄微信小程序"/>
+<img src="https://github.com/viki0609/jiangqie-diy/raw/master/1637028172815.jpg" width="800" height="auto" alt="酱茄微信小程序"/>
+<img src="https://github.com/viki0609/jiangqie-diy/raw/master/WechatIMG3249.png" width="800" height="auto" alt="酱茄微信小程序"/>
 
 - [x] 小程序/视频号直播
 - [x] 网盘下载/分享[支持流量主广告]
@@ -45,11 +47,9 @@ Copyright © 2020-2021 酱茄 jiangqie.com
 - [x] 引入colorUI美化页面
 - [x] AR支持[需自制AR模型]
 - [x] DIY字段支持
+- [x] *API缓存功能[支持Memcached]
 - [ ] 更多功能开发中
-- [x] <span style="color:#E53333;">重要更新</span> API缓存功能[支持Memcached]
 
-<img src="https://github.com/viki0609/jiangqie-diy/raw/master/1637028172815.jpg" width="800" height="auto" alt="酱茄微信小程序"/>
-<img src="https://github.com/viki0609/jiangqie-diy/raw/master/WechatIMG3249.png" width="800" height="auto" alt="酱茄微信小程序"/>
 
 
 ## 鸣谢
