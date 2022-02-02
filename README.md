@@ -48,6 +48,7 @@ Copyright © 2020-2021 酱茄 jiangqie.com
 - [x] AR支持[需自制AR模型]
 - [x] DIY字段支持
 - [x] *API缓存功能[支持Memcached]
+- [x] 集成开源商城
 - [ ] 更多功能开发中
 
 
