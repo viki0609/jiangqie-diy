@@ -49,7 +49,7 @@ Copyright © 2020-2021 酱茄 jiangqie.com
 - [x] DIY字段支持
 - [x] *API缓存功能[支持Memcached]
 - [x] 集成开源商城
-- [ ] 更多功能开发中
+- [ ] 更多功能开发中 
 
 
 
